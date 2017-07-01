@@ -1,3 +1,13 @@
+.avatar {
+   text-align: left;
+   float: left;
+   cursor: pointer;
+}
+
+.Score {
+    text-align: center;
+}
+
 body {
     text-align: center;
 }
